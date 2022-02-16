@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Linux administration.
 - 💞️ I’m looking to collaborate on creating an outstanding curated list of English resources.
 - 📫 How to reach me: 
-    Twitter:  (@english4tech):[https://twitter.com/english4tech]
-    Twitch:   (english4tech):(https://twitch.tv/english4tech]
+    Twitter:  [@english4tech](https://twitter.com/english4tech)
+    Twitch:   [english4tech](https://www.twitch.tv/english4tech)
     
 <!---
 english4tech/english4tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
